@@ -2,7 +2,7 @@
 <h2> Data Analyst
 
 ### About me
-- I've a curious  mind and I quick learning
+- I have a curious  mind and I'm a quick learner
 - 👀 I'm interested in growing in the field of data science 🌱
 - I work very well either autonomously or in a team.
 
